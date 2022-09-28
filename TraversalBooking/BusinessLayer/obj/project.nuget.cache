@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QFscttWuVOq9U6j9fexeGYZlP6qCWtEPGpx1gaMNbaYXtZEfE4bzV7i9G2FteYghme9Ej/aXigK0APmPfnGHmA==",
+  "dgSpecHash": "BgKs95qU3+nk0S387VOXcuY0wqNPPL7Q+59q0N2e1+zxan2ntFWWCLAB9kcVjE8czF1/ve0NcW3i2YNW0DbXXg==",
   "success": true,
   "projectFilePath": "D:\\Codes\\BookingApp\\TraversalBooking\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arda_\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\arda_\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\arda_\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\arda_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\arda_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\arda_\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
