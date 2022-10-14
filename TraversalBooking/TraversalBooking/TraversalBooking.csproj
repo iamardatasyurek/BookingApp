@@ -5,6 +5,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\Traversal-Starter\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Traversal-Starter\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\all.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\app.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\jquery.countup.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\jquery.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\jquery.waypoints.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\jquery.zoomslider.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\lightbox-plus-jquery.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\main.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\modernizr-2.6.2.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\owl.carousel.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\popper.min.js" />
+    <None Include="wwwroot\Traversal-Starter\assets\js\theme-change.js" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.2.2" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
@@ -24,6 +43,25 @@
     <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
     <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\Traversal-Starter\about.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\Traversal-Starter\contact.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\Traversal-Starter\index.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\Traversal-Starter\services.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

@@ -26,8 +26,15 @@ using TraversalBooking.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "D:\Codes\BookingApp\TraversalBooking\TraversalBooking\Views\_ViewImports.cshtml"
+using EntityLayer.Concrete;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"56852facbf4d6b2201b94cd2ba4e0f7a6a8efed1", @"/Views/Shared/Components/_Statistics/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"839ceef4081d85918dcd2725d19476715b30a03e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6c56c4cdcf60c4f4873f791d7ef1ab5478a250f6", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Components__Statistics_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

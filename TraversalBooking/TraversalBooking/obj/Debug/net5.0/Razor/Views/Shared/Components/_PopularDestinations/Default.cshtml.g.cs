@@ -34,7 +34,7 @@ using EntityLayer.Concrete;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"19e1905019508394b34f8af271d9bacc1ee6210f", @"/Views/Shared/Components/_PopularDestinations/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"839ceef4081d85918dcd2725d19476715b30a03e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6c56c4cdcf60c4f4873f791d7ef1ab5478a250f6", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Components__PopularDestinations_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<Destination>>
     #nullable disable
